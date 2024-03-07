@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 html {
@@ -10,7 +11,7 @@ html {
 :root {
     --template_bg: rgb(255, 255, 255);
     --template_color: rgb(27, 27, 27);
-    --template_form_color: rgb(202, 202, 202);
+    --template_form_color: rgb(228, 228, 228);
 }
 
 body {
@@ -25,7 +26,7 @@ body {
     background-color: var(--template_bg);
     color: var(--template_color);
 }
-
+/* Form  */
 .miuul_login_form {
     position: relative;
     width: 20rem;
